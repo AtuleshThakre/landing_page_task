@@ -675,8 +675,8 @@ export default function ForemployersPage() {
                   Generative AI: The simple explanation. Optimize Your Hiring Process Today!
                 </>
               </Text>
-              <Button size="xl" className="mt-[94px] min-w-[591px] rounded-[20px] font-medium sm:px-5">
-                Download Now for Smarter Recruitment
+              <Button size="xl" className="mt-[94px]  rounded-[20px] font-medium sm:px-5">
+                Download Now for Smarter Recruitment 
               </Button>
             </div>
             <Img
@@ -971,7 +971,7 @@ export default function ForemployersPage() {
                 your recruitment game with data-driven insights – because the right talent deserves the right approach.
               </Text>
             </div>
-            <Button size="xl" className="mb-3 ml-3 min-w-[476px] rounded-[20px] font-medium md:ml-0 sm:px-5">
+            <Button  className="mb-3 ml-3 rounded-[20px] font-medium md:ml-0 sm:px-5">
               Request Your Free Hiring Audit
             </Button>
           </div>
